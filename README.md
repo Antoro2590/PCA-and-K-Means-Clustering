@@ -3,3 +3,4 @@
 ## *Content*
 - PCA
 - K-Means Clustering
+![](https://drive.google.com/uc?export=view&id=1BWd4oN2HfQIQh2j5pD560xgLwfMGK0gU)
